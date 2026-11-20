@@ -132,3 +132,14 @@ Shiver of Sharks Creators の制作物について、いつ作り始めたか・
   - あると（SCD）: 企画（プランクトンの群れを追い込んで、いいタイミングでラムフィーディング。食べた量でスコア）
   - ゆうと（SAI）: 実装
 - 公開リンク: https://muse.ai/s/zinbeezamenoramuhuideingu-xvxi6sxdxuonxvixl/VVteJ_JGusHVqL4ETykEn0y_33ty5aCWLC17WKI8Y8U（2026-11-13 共有）
+
+## サメ11問
+
+- バージョン: 未設定
+- 作り始め: 2026-11-20
+- 関わった人:
+  - あると（SCD）: 依頼（Xで話題になった「ポケモンを11回以内の質問で当てる」推論ゲームのサメ版を作るよう依頼）
+  - ゆうと（SAI）: 実装
+- 内容: 実在のサメ26種の中から思い浮かべた1種を、「はい／いいえ／わからない」の質問最大11問で絞り込んで当てる推論ゲーム。全種が11問以内に当たることを確認済み
+- 公開リンク: https://muse.ai/s/same11wen-xnxe6wfyxtzxjxzp/s9Rj5C2GjEKjN1IlDG6o9pHw_s-tC-Lmroq4-J_XXYk
+- 状態: 2026-11-20 に #一般 へ共有済み
